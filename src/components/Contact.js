@@ -74,8 +74,8 @@ export default function Contact() {
             Work With Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            My services include consulting, application development, web development, UI/UX design, relational database design
+            and more. I look forward to hearing from you soon.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
