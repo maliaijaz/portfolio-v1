@@ -14,9 +14,10 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+            I have worked previously as a front end developer at TutorNerd, a 
+            full stack software engineer at McGraw-Hill Education on their ALEKS product and
+            currently as a software engineer III at Verizon, specializing in back-end. I have rich experience
+            in building full stack web applications, distributed systems, and designing relational databases.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

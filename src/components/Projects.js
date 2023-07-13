@@ -11,15 +11,14 @@ export default function Projects() {
         <div className="flex flex-col w-full mb-20">
           <CodeIcon className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-            Apps I've Built
+            Past Clients
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            Majority of my past clients have been in the music business. I've designed and built websites for Ariana Grande, 
+            Tommy Brown (TBHits), Wheezy Out of Here, DJ Mo Beatz, Turbo, Maaly Raw and more.
           </p>
         </div>
-        <div className="flex flex-wrap -m-4">
+        {/* <div className="flex flex-wrap -m-4">
           {projects.map((project) => (
             <a
               href={project.link}
@@ -43,7 +42,7 @@ export default function Projects() {
               </div>
             </a>
           ))}
-        </div>
+        </div> */}
       </div>
     </section>
   );
